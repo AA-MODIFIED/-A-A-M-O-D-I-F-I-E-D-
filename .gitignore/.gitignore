@@ -1,0 +1,6 @@
+gema "# -AAMODIFIED-" >> README.md 
+git init 
+git tambahkan README.md 
+git commit -m "komit pertama" 
+git remote tambahkan asal https://github.com/AA-MODIFIED/-AAMODIFIED/-AAMODIFIED-.git
+ git push tuan asal -u
